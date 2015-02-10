@@ -26,7 +26,7 @@ Sikorsky Aircraft, a subsidiary of United Technologies Corporation, is a world l
 Located in New Britain, CT, Parker Fluid Control Division is a world leader in the creation of solenoid valves that control motion, flow and pressure. In addition to valuable engineering expertise and mentorship, they have provided us with safety equipment and scale-size 3-D useful robot models and parts using their 3-D printer.
 
 ### Farmington Public Schools: (Gold and Veteran Sponsor)
-<a href="http://fpsct.org/"><img class="sponsor-logo" alt="Farmington Public Schools Logo" src="http://farmingtonrobotics.org/oldsite/FarmingtonRobotics.org/farmingtonrobotics.org/images/fpslogo.jpg" /></a>
+<a href="http://fpsct.org/"><img class="sponsor-logo" alt="Farmington Public Schools Logo" src="http://www.fpsct.org/uploaded/images/new_logo/FPS_vert_rgb_4c_small.jpg" /></a>
 Located in Farmington, CT, Farmington Public Schools is committed to helping all students reach high levels of educational achievement in preparation for productive, rewarding lives and responsible citizenship. Farmington Public Schools graciously allows the use of buildings throughout the district to support robotics for all grade levels, including JFLL, FLL and FRC. In addition, they support our efforts by providing us with outstanding teacher mentors, computers, and transportation to various competitions and community outreach events.
 
 ### Data Management Inc: (Bronze Sponsor)
@@ -34,7 +34,7 @@ Located in Farmington, CT, Farmington Public Schools is committed to helping all
 Located right next-door to our warehouse, Data Management is a customer-focused developer of specialized business forms and systems that help organizations achieve their best results. They also constantly help out our team in many ways, such as donating old equipment or office furniture, or just plowing the driveway during the winter.
 
 ### Barnes Group Inc: (Bronze Sponsor)
-<a href="http://www.barnesgroupinc.com/"><img class="sponsor-logo" alt="Barnes Group Inc Logo" src="http://farmingtonrobotics.org/oldsite/FarmingtonRobotics.org/farmingtonrobotics.org/images/barnes.jpg" /></a>
+<a href="http://www.barnesgroupinc.com/"><img class="sponsor-logo" alt="Barnes Group Inc Logo" src="http://www.barnesgroupinc.com/ImageGen.ashx?image=/media/24464/barnes_group_logo.png" /></a>
 Located in Bristol, CT, Barnes Group Inc is a diversified global manufacturer and logistical services company that provides precision component manufacturing and operating service support and solutions to nearly every industry around the world.
 
 ### Stanley Black & Decker, Inc: (Bronze Sponsor)
